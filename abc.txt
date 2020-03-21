@@ -2,6 +2,3 @@ aaa
 bbbb
 cccc
 ddddd
-fffff
-bbbb
-ccc
