@@ -1,0 +1,22 @@
+shift enter 向下新建一行
+ctrl alt enter  向上新建一行
+单行注释       ctrl + / 
+提示补全 (Class Name Completion)    alt+/
+万能解错/生成返回值变量     alt + enter 
+
+ctrl d 向下复制一行
+ctrl y 删除当前行
+反撤销       ctrl + y 
+
+选中数行，整体往后移动     tab 26 
+选中数行，整体往前移动     shift + tab 27 
+alt insert 插入构造器setter等方法
+生成 try-catch 等(surround with)    alt+shift+t
+
+
+2.1 psvm : 可生成 main 方法 
+2.2 sout : System.out.println() 快捷输
+2.3 fori : 可生成 for 循环 
+2.4 list.for : 可生成集合 list 的 for 循环 
+2.5 ifn：可生成 if(xxx = null) 
+.6 prsf：可生成 private static final  
